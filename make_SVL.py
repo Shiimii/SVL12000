@@ -2,7 +2,6 @@ import requests
 import re
 
 def make_list(n):
-
     file_path = 'http://web.archive.org/web/20081219085635/http://www.alc.co.jp/goi/svl_l{0:0>2}_list.htm'.format(n)
     # print(file_path)
     # get a list
