@@ -1,0 +1,1000 @@
+- [x] a
+- [x] able
+- [x] about
+- [x] above
+- [x] across
+- [x] act
+- [x] afraid
+- [x] after
+- [x] afternoon
+- [x] again
+- [x] against
+- [x] age
+- [x] ago
+- [x] air
+- [x] airplane
+- [x] airport
+- [x] album
+- [x] all
+- [x] almost
+- [x] alone
+- [x] along
+- [x] already
+- [x] also
+- [x] always
+- [x] am
+- [x] among
+- [x] an
+- [x] and
+- [x] angry
+- [x] animal
+- [x] another
+- [x] answer
+- [x] any
+- [x] anybody
+- [x] anyone
+- [x] anything
+- [x] apartment
+- [x] apple
+- [x] April
+- [x] are
+- [x] arm
+- [x] around
+- [x] arrive
+- [x] art
+- [x] artist
+- [x] as
+- [x] ask
+- [x] at
+- [x] attack
+- [x] August
+- [x] aunt
+- [x] autumn
+- [x] away
+- [x] baby
+- [x] back
+- [x] bad
+- [x] bag
+- [x] bake
+- [x] baker
+- [x] ball
+- [x] banana
+- [x] bank
+- [x] baseball
+- [x] basket
+- [x] basketball
+- [x] bat
+- [x] bath
+- [x] bathroom
+- [x] be
+- [x] beautiful
+- [x] because
+- [x] become
+- [x] bed
+- [x] bedroom
+- [x] beef
+- [x] been
+- [x] before
+- [x] begin
+- [x] beginning
+- [x] behind
+- [x] believe
+- [x] bell
+- [x] below
+- [x] bench
+- [x] beside
+- [x] best
+- [x] better
+- [x] between
+- [x] bicycle
+- [x] big
+- [x] bike
+- [x] bird
+- [x] birthday
+- [x] black
+- [x] blackboard
+- [x] blow
+- [x] blue
+- [x] boat
+- [x] body
+- [x] book
+- [x] boot
+- [x] born
+- [x] both
+- [x] bottle
+- [x] box
+- [x] boy
+- [x] bread
+- [x] break
+- [x] breakfast
+- [x] bridge
+- [x] bring
+- [x] brother
+- [x] brown
+- [x] build
+- [x] building
+- [x] bus
+- [x] business
+- [x] busy
+- [x] but
+- [x] butter
+- [x] buy
+- [x] by
+- [x] bye
+- [x] cafe
+- [x] cake
+- [x] calendar
+- [x] call
+- [x] camera
+- [x] camp
+- [x] can
+- [x] candy
+- [x] cap
+- [x] captain
+- [x] car
+- [x] card
+- [x] careful
+- [x] carry
+- [x] case
+- [x] cat
+- [x] catch
+- [x] center
+- [x] certain
+- [x] chair
+- [ ] chalk
+- [x] chance
+- [x] change
+- [x] cheap
+- [x] cheese
+- [x] chicken
+- [x] chief
+- [x] child
+- [x] children
+- [x] chocolate
+- [x] choose
+- [x] Christmas
+- [x] church
+- [x] circle
+- [x] city
+- [x] class
+- [x] classmate
+- [x] classroom
+- [x] clean
+- [x] clear
+- [x] clever
+- [x] climb
+- [x] clock
+- [x] close
+- [x] clothes
+- [x] cloud
+- [x] cloudy
+- [x] club
+- [ ] coat
+- [x] coffee
+- [x] cold
+- [x] college
+- [x] color
+- [x] come
+- [x] company
+- [x] cook
+- [x] cookie
+- [x] cool
+- [x] corner
+- [x] could
+- [x] count
+- [x] country
+- [x] cover
+- [x] cow
+- [x] cry
+- [x] cup
+- [x] cut
+- [x] dad
+- [x] daddy
+- [x] dance
+- [x] dangerous
+- [x] dark
+- [x] date
+- [x] daughter
+- [x] day
+- [x] dead
+- [ ] dear
+- [x] death
+- [x] December
+- [x] decide
+- [x] deep
+- [x] delicious
+- [x] department
+- [x] desk
+- [x] diary
+- [x] dictionary
+- [x] did
+- [x] die
+- [x] different
+- [x] difficult
+- [x] dinner
+- [x] dirty
+- [x] discover
+- [x] dish
+- [x] do
+- [x] doctor
+- [x] does
+- [x] dog
+- [x] doll
+- [x] dollar
+- [x] door
+- [x] down
+- [x] draw
+- [x] dream
+- [x] dress
+- [x] drink
+- [x] drive
+- [x] driver
+- [x] drop
+- [x] dry
+- [x] during
+- [x] each
+- [x] ear
+- [x] early
+- [x] earth
+- [x] east
+- [x] easy
+- [x] eat
+- [x] egg
+- [x] eight
+- [x] eighteen
+- [x] eighty
+- [x] either
+- [x] elephant
+- [x] eleven
+- [x] else
+- [x] end
+- [x] enjoy
+- [x] enough
+- [x] enter
+- [x] even
+- [x] evening
+- [x] ever
+- [x] every
+- [x] everybody
+- [x] everyone
+- [x] everything
+- [x] everywhere
+- [x] excuse
+- [x] eye
+- [x] face
+- [x] fact
+- [x] factory
+- [x] fall
+- [x] family
+- [x] famous
+- [x] far
+- [x] farm
+- [x] farmer
+- [x] fast
+- [x] fat
+- [x] father
+- [x] February
+- [x] feel
+- [x] feeling
+- [x] few
+- [x] field
+- [x] fifteen
+- [x] fifty
+- [x] fight
+- [x] film
+- [x] find
+- [x] fine
+- [x] finger
+- [x] finish
+- [x] fire
+- [x] first
+- [x] fish
+- [x] five
+- [x] flat
+- [x] floor
+- [x] flower
+- [x] fly
+- [x] food
+- [x] fool
+- [x] foot
+- [x] football
+- [x] for
+- [x] forest
+- [x] forget
+- [ ] fork
+- [x] forty
+- [x] four
+- [x] fourteen
+- [x] fox
+- [x] free
+- [x] fresh
+- [x] Friday
+- [x] friend
+- [x] friendly
+- [x] frog
+- [x] from
+- [x] front
+- [x] fruit
+- [x] full
+- [x] fun
+- [x] funny
+- [x] future
+- [x] game
+- [x] garden
+- [x] gas
+- [x] gentleman
+- [x] get
+- [x] girl
+- [x] give
+- [x] glad
+- [x] glass
+- [x] glove
+- [x] go
+- [x] goal
+- [x] God
+- [x] gold
+- [x] golden
+- [x] golf
+- [x] gone
+- [x] good
+- [x] goodbye
+- [x] grandfather
+- [x] grandmother
+- [x] grass
+- [x] gray
+- [x] great
+- [x] green
+- [x] ground
+- [x] group
+- [x] grow
+- [x] guest
+- [x] guide
+- [x] guitar
+- [x] gun
+- [x] hair
+- [x] half
+- [x] hand
+- [x] happen
+- [x] happiness
+- [x] happy
+- [x] hard
+- [x] has
+- [x] hat
+- [x] have
+- [x] he
+- [x] head
+- [x] healthy
+- [x] hear
+- [x] heart
+- [x] heavy
+- [x] hello
+- [x] help
+- [x] her
+- [x] here
+- [x] hers
+- [x] hi
+- [x] high
+- [x] hill
+- [x] him
+- [x] his
+- [x] history
+- [x] hit
+- [x] hobby
+- [x] hold
+- [x] hole
+- [x] holiday
+- [x] home
+- [x] homework
+- [x] honest
+- [x] honey
+- [x] hope
+- [x] horse
+- [x] hospital
+- [x] hot
+- [x] hotel
+- [x] hour
+- [x] house
+- [x] how
+- [x] hundred
+- [x] hungry
+- [x] hurry
+- [x] hurt
+- [x] husband
+- [x] I
+- [x] ice
+- [x] idea
+- [x] if
+- [x] ill
+- [x] important
+- [x] in
+- [x] inside
+- [x] interest
+- [x] interested
+- [x] interesting
+- [x] into
+- [x] invite
+- [x] is
+- [x] island
+- [x] it
+- [x] its
+- [x] jam
+- [x] January
+- [x] job
+- [x] join
+- [x] joke
+- [x] joy
+- [x] juice
+- [x] July
+- [x] jump
+- [x] June
+- [x] junior
+- [x] just
+- [x] keep
+- [x] key
+- [x] kick
+- [x] kid
+- [x] kill
+- [x] kind
+- [x] king
+- [x] kiss
+- [x] kitchen
+- [x] knee
+- [x] knife
+- [x] know
+- [x] lady
+- [x] lake
+- [x] land
+- [x] language
+- [x] large
+- [x] last
+- [x] late
+- [x] later
+- [x] laugh
+- [x] leaf
+- [x] learn
+- [x] leave
+- [x] left
+- [x] leg
+- [x] lesson
+- [x] let
+- [x] letter
+- [x] level
+- [x] library
+- [x] life
+- [x] light
+- [x] like
+- [x] line
+- [x] lion
+- [x] lip
+- [x] list
+- [x] listen
+- [x] little
+- [x] live
+- [x] long
+- [x] look
+- [x] lose
+- [x] love
+- [x] low
+- [x] lucky
+- [x] lunch
+- [x] machine
+- [x] magazine
+- [x] mail
+- [x] make
+- [x] man
+- [x] many
+- [x] map
+- [x] March
+- [x] market
+- [x] marry
+- [x] master
+- [x] matter
+- [x] may
+- [x] May
+- [x] me
+- [x] meal
+- [x] mean
+- [x] meat
+- [x] meet
+- [x] meeting
+- [x] member
+- [x] memory
+- [x] men
+- [x] meter
+- [x] middle
+- [x] midnight
+- [ ] mile
+- [ ] milk
+- [ ] mind
+- [ ] mine
+- [ ] minute
+- [ ] mirror
+- [ ] miss
+- [ ] Miss
+- [ ] mistake
+- [ ] Monday
+- [ ] money
+- [ ] monkey
+- [ ] month
+- [ ] moon
+- [ ] more
+- [ ] morning
+- [ ] most
+- [ ] mother
+- [ ] mountain
+- [ ] mouse
+- [ ] mouth
+- [ ] move
+- [ ] movie
+- [ ] Mr.
+- [ ] Mrs.
+- [ ] Ms.
+- [ ] much
+- [ ] museum
+- [ ] music
+- [ ] musician
+- [ ] must
+- [ ] my
+- [ ] nail
+- [ ] name
+- [ ] narrow
+- [ ] natural
+- [ ] near
+- [ ] necessary
+- [ ] neck
+- [ ] need
+- [ ] neighbor
+- [ ] never
+- [ ] new
+- [ ] news
+- [ ] newspaper
+- [ ] next
+- [ ] nice
+- [ ] night
+- [ ] nine
+- [ ] nineteen
+- [ ] ninety
+- [ ] no
+- [ ] nobody
+- [x] noise
+- [x] none
+- [ ] noon
+- [ ] north
+- [ ] nose
+- [ ] not
+- [ ] note
+- [ ] notebook
+- [ ] nothing
+- [x] November
+- [x] now
+- [x] number
+- [x] nurse
+- [x] o'clock
+- [x] October
+- [ ] of
+- [ ] off
+- [ ] office
+- [ ] often
+- [ ] oh
+- [ ] oil
+- [ ] OK
+- [ ] old
+- [ ] on
+- [ ] once
+- [ ] one
+- [ ] only
+- [ ] open
+- [ ] or
+- [ ] orange
+- [ ] order
+- [ ] other
+- [ ] our
+- [ ] ours
+- [ ] out
+- [ ] outside
+- [ ] over
+- [ ] page
+- [ ] paint
+- [ ] pair
+- [ ] pants
+- [ ] paper
+- [ ] parent
+- [ ] park
+- [ ] part
+- [ ] party
+- [ ] pass
+- [ ] past
+- [ ] pay
+- [ ] pen
+- [ ] pencil
+- [ ] people
+- [ ] percent
+- [ ] perhaps
+- [x] person
+- [x] pet
+- [x] phone
+- [x] photograph
+- [x] piano
+- [x] pick
+- [x] picnic
+- [x] picture
+- [x] piece
+- [x] pig
+- [x] pilot
+- [x] pink
+- [x] pipe
+- [x] place
+- [x] plan
+- [x] plane
+- [x] plant
+- [x] play
+- [x] please
+- [x] pocket
+- [x] point
+- [x] police
+- [x] policeman
+- [x] pool
+- [x] poor
+- [x] popular
+- [x] pork
+- [x] post
+- [x] pot
+- [x] potato
+- [ ] pound
+- [x] power
+- [x] practice
+- [x] present
+- [ ] pretty
+- [x] price
+- [x] promise
+- [x] proud
+- [x] pull
+- [x] push
+- [x] put
+- [x] quarter
+- [x] queen
+- [x] question
+- [x] quick
+- [x] quickly
+- [x] quiet
+- [x] rabbit
+- [ ] race
+- [x] radio
+- [x] rain
+- [x] rainy
+- [x] reach
+- [x] read
+- [x] ready
+- [x] real
+- [x] really
+- [x] receive
+- [x] red
+- [x] remember
+- [x] restaurant
+- [x] return
+- [x] rice
+- [x] rich
+- [x] ride
+- [x] right
+- [x] ring
+- [x] rise
+- [x] river
+- [ ] road
+- [x] robot
+- [x] rock
+- [x] rocket
+- [x] roof
+- [x] room
+- [x] rope
+- [ ] rose
+- [x] round
+- [x] rule
+- [x] run
+- [x] sad
+- [x] safe
+- [x] salad
+- [x] sale
+- [x] salt
+- [x] same
+- [x] sand
+- [x] sandwich
+- [x] Saturday
+- [x] save
+- [x] say
+- [x] scene
+- [x] school
+- [x] science
+- [x] sea
+- [x] season
+- [x] seat
+- [x] second
+- [x] secret
+- [ ] see
+- [ ] seem
+- [ ] sell
+- [ ] send
+- [ ] September
+- [ ] set
+- [ ] seven
+- [ ] seventeen
+- [ ] seventy
+- [ ] several
+- [ ] shake
+- [ ] shall
+- [ ] shape
+- [ ] sharp
+- [ ] she
+- [ ] sheep
+- [ ] shine
+- [ ] ship
+- [ ] shirt
+- [ ] shoe
+- [ ] shop
+- [ ] shopping
+- [ ] short
+- [ ] should
+- [ ] shoulder
+- [ ] show
+- [ ] shower
+- [x] shut
+- [x] sick
+- [x] side
+- [x] sign
+- [ ] silent
+- [ ] silver
+- [ ] simple
+- [ ] since
+- [ ] sing
+- [ ] singer
+- [ ] sister
+- [ ] sit
+- [ ] six
+- [ ] sixteen
+- [ ] sixty
+- [ ] size
+- [ ] ski
+- [ ] skiing
+- [ ] skin
+- [ ] sky
+- [ ] sleep
+- [ ] sleepy
+- [ ] slow
+- [ ] slowly
+- [ ] small
+- [ ] smell
+- [ ] smile
+- [x] smoke
+- [x] smoker
+- [x] smoking
+- [ ] snake
+- [ ] snow
+- [ ] so
+- [x] soap
+- [ ] soccer
+- [ ] soda
+- [ ] soft
+- [ ] some
+- [ ] somebody
+- [ ] someone
+- [ ] something
+- [ ] sometimes
+- [ ] son
+- [ ] song
+- [ ] soon
+- [ ] sorry
+- [ ] sound
+- [ ] soup
+- [ ] south
+- [ ] space
+- [ ] speak
+- [ ] speaker
+- [ ] special
+- [ ] speed
+- [ ] spend
+- [ ] spoon
+- [x] sport
+- [x] spring
+- [x] square
+- [x] stamp
+- [x] stand
+- [x] star
+- [x] start
+- [x] station
+- [x] stay
+- [x] step
+- [x] still
+- [x] stone
+- [x] stop
+- [x] store
+- [x] story
+- [x] straight
+- [x] strange
+- [x] street
+- [x] strong
+- [x] student
+- [x] study
+- [x] subway
+- [x] such
+- [x] suddenly
+- [x] sugar
+- [ ] suit
+- [x] summer
+- [x] sun
+- [x] Sunday
+- [x] supermarket
+- [x] sure
+- [x] surprise
+- [x] sweet
+- [x] swim
+- [x] switch
+- [x] table
+- [x] take
+- [x] talk
+- [x] tall
+- [x] tape
+- [x] taste
+- [x] taxi
+- [x] tea
+- [x] teach
+- [x] teacher
+- [x] team
+- [x] telephone
+- [x] television
+- [x] tell
+- [x] ten
+- [x] tennis
+- [ ] tent
+- [x] test
+- [x] textbook
+- [x] than
+- [x] thank
+- [x] that
+- [x] the
+- [x] their
+- [x] theirs
+- [x] them
+- [x] then
+- [x] there
+- [x] these
+- [x] they
+- [x] thick
+- [x] thin
+- [x] thing
+- [x] think
+- [x] third
+- [x] thirteen
+- [x] thirty
+- [x] this
+- [x] those
+- [x] though
+- [x] thousand
+- [x] three
+- [x] through
+- [x] throw
+- [x] Thursday
+- [x] ticket
+- [x] tie
+- [x] tiger
+- [x] till
+- [x] time
+- [x] tired
+- [x] to
+- [x] today
+- [x] toe
+- [x] together
+- [x] toilet
+- [x] tomato
+- [x] tomorrow
+- [x] tongue
+- [x] tonight
+- [x] too
+- [x] tooth
+- [x] top
+- [x] touch
+- [x] toward
+- [x] towel
+- [x] tower
+- [x] town
+- [x] toy
+- [x] train
+- [x] travel
+- [x] tree
+- [x] trip
+- [x] trouble
+- [x] TRUE
+- [x] try
+- [x] Tuesday
+- [x] tunnel
+- [x] turn
+- [x] twelve
+- [x] twenty
+- [x] two
+- [x] type
+- [x] umbrella
+- [ ] uncle
+- [x] under
+- [x] understand
+- [x] until
+- [x] up
+- [x] upon
+- [x] us
+- [x] use
+- [x] useful
+- [x] usual
+- [x] usually
+- [x] vacation
+- [x] vegetable
+- [x] very
+- [x] video
+- [x] videotape
+- [x] village
+- [x] violin
+- [x] visit
+- [x] visitor
+- [x] voice
+- [x] wait
+- [x] wake
+- [x] walk
+- [x] wall
+- [x] want
+- [x] war
+- [x] warm
+- [x] was
+- [x] wash
+- [x] watch
+- [x] water
+- [x] wave
+- [x] way
+- [x] we
+- [x] weak
+- [x] wear
+- [x] Wednesday
+- [x] week
+- [x] weekend
+- [x] welcome
+- [x] well
+- [x] were
+- [x] west
+- [x] wet
+- [x] what
+- [x] when
+- [x] where
+- [x] which
+- [x] while
+- [x] white
+- [x] who
+- [x] whom
+- [x] whose
+- [x] why
+- [x] wide
+- [x] wife
+- [x] wild
+- [x] will
+- [x] wind
+- [x] window
+- [x] wine
+- [x] winter
+- [x] wise
+- [x] with
+- [x] without
+- [x] woman
+- [x] wonderful
+- [x] wood
+- [x] word
+- [x] work
+- [x] world
+- [x] worry
+- [x] worst
+- [x] would
+- [x] write
+- [x] wrong
+- [x] yard
+- [x] year
+- [x] yellow
+- [x] yes
+- [x] yesterday
+- [x] you
+- [x] young
+- [x] your
+- [x] yours
+- [x] zoo

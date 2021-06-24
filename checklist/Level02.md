@@ -1,0 +1,1000 @@
+- [x] ability
+- [x] abroad
+- [x] absent
+- [x] accent
+- [x] accept
+- [x] accident
+- [x] account
+- [x] action
+- [x] active
+- [x] activity
+- [x] actor
+- [x] actress
+- [x] actual
+- [x] actually
+- [x] add
+- [x] address
+- [x] admire
+- [x] adult
+- [x] adventure
+- [x] advice
+- [x] advise
+- [x] afterward
+- [ ] agency
+- [x] agent
+- [x] agree
+- [x] ah
+- [x] ahead
+- [x] aim
+- [x] airline
+- [x] alive
+- [x] allow
+- [x] almond
+- [x] alphabet
+- [x] amount
+- [x] angel
+- [x] anger
+- [x] announce
+- [x] ant
+- [x] anxious
+- [x] anyway
+- [x] anywhere
+- [x] apart
+- [x] appear
+- [x] appearance
+- [x] apply
+- [x] approach
+- [ ] apron
+- [x] area
+- [x] army
+- [x] arrange
+- [x] arrangement
+- [x] arrival
+- [ ] aside
+- [x] asleep
+- [x] assist
+- [x] attend
+- [x] attention
+- [x] audience
+- [x] automobile
+- [x] awake
+- [x] aware
+- [ ] awful
+- [ ] backward
+- [x] bacon
+- [x] badly
+- [x] balance
+- [x] balloon
+- [x] band
+- [ ] bar
+- [x] base
+- [x] basic
+- [x] battle
+- [x] bay
+- [x] beach
+- [x] bean
+- [ ] bear
+- [x] beard
+- [x] beat
+- [x] beautifully
+- [x] beauty
+- [x] bee
+- [ ] beer
+- [x] behave
+- [x] belong
+- [x] belt
+- [ ] bend
+- [x] beyond
+- [x] bill
+- [x] birth
+- [x] bit
+- [ ] blame
+- [x] blanket
+- [x] blind
+- [x] block
+- [x] blood
+- [x] board
+- [x] boil
+- [x] bone
+- [x] bookshop
+- [x] bookstore
+- [x] boring
+- [x] borrow
+- [x] boss
+- [x] bottom
+- [ ] bow
+- [x] bowl
+- [x] boyfriend
+- [x] brain
+- [ ] brake
+- [x] branch
+- [x] brave
+- [ ] breath
+- [ ] breathe
+- [x] brick
+- [x] bright
+- [x] brilliant
+- [ ] broad
+- [x] broadcast
+- [x] broken
+- [x] brush
+- [x] burn
+- [ ] burst
+- [ ] bush
+- [x] businessman
+- [x] butterfly
+- [x] button
+- [ ] cab
+- [ ] cable
+- [x] cage
+- [x] campus
+- [x] candle
+- [x] capital
+- [x] care
+- [x] carefully
+- [x] carpenter
+- [x] cash
+- [x] cast
+- [x] castle
+- [x] cause
+- [x] ceiling
+- [ ] cent
+- [ ] centimeter
+- [ ] central
+- [ ] century
+- [ ] certainly
+- [x] chain
+- [x] champion
+- [x] chapter
+- [x] character
+- [ ] charge
+- [ ] check
+- [ ] cheek
+- [ ] cheer
+- [ ] cherry
+- [ ] chest
+- [ ] choice
+- [ ] cigar
+- [ ] cigarette
+- [ ] cinema
+- [ ] citizen
+- [ ] claim
+- [ ] cleaning
+- [ ] clearly
+- [ ] clerk
+- [ ] clinic
+- [ ] cloth
+- [ ] coal
+- [ ] coast
+- [ ] cocoa
+- [ ] coin
+- [ ] collect
+- [ ] collection
+- [ ] colorful
+- [ ] comfort
+- [ ] comfortable
+- [ ] comic
+- [ ] common
+- [ ] companion
+- [ ] compare
+- [ ] complain
+- [ ] complete
+- [ ] completely
+- [ ] computer
+- [ ] concert
+- [x] condition
+- [ ] contain
+- [ ] content
+- [ ] continue
+- [ ] control
+- [ ] conversation
+- [ ] cooking
+- [ ] copy
+- [ ] corn
+- [ ] correct
+- [ ] cost
+- [ ] cotton
+- [ ] couple
+- [ ] courage
+- [ ] course
+- [ ] court
+- [ ] cousin
+- [ ] cowboy
+- [ ] crash
+- [ ] crazy
+- [ ] cream
+- [ ] create
+- [ ] creation
+- [ ] crew
+- [ ] cross
+- [ ] crowd
+- [ ] crowded
+- [ ] crown
+- [ ] culture
+- [ ] curtain
+- [ ] curve
+- [ ] custom
+- [ ] customer
+- [ ] cycle
+- [ ] daily
+- [ ] damage
+- [ ] dancer
+- [ ] dancing
+- [ ] danger
+- [ ] dare
+- [ ] deaf
+- [ ] deal
+- [ ] decision
+- [ ] deeply
+- [ ] defend
+- [ ] defense
+- [ ] degree
+- [ ] deliver
+- [ ] demand
+- [x] dentist
+- [x] deny
+- [ ] depend
+- [ ] depth
+- [ ] describe
+- [ ] desert
+- [ ] design
+- [ ] designer
+- [ ] destroy
+- [ ] detail
+- [ ] develop
+- [ ] dial
+- [ ] diamond
+- [x] difference
+- [x] difficulty
+- [x] dig
+- [x] direct
+- [x] direction
+- [x] directly
+- [x] disappear
+- [x] discount
+- [x] discuss
+- [x] discussion
+- [x] disease
+- [x] disk
+- [x] dislike
+- [x] distance
+- [x] distant
+- [ ] district
+- [x] divide
+- [x] double
+- [ ] doubt
+- [x] downstairs
+- [x] downtown
+- [x] dozen
+- [x] drama
+- [ ] drill
+- [ ] drinking
+- [ ] drown
+- [ ] drug
+- [ ] drunk
+- [ ] dust
+- [ ] duty
+- [ ] earn
+- [ ] earring
+- [ ] easily
+- [ ] edge
+- [ ] educate
+- [ ] education
+- [ ] effect
+- [ ] effort
+- [ ] eighteenth
+- [ ] eighth
+- [ ] eightieth
+- [ ] elbow
+- [ ] elder
+- [ ] electric
+- [ ] electricity
+- [ ] elevator
+- [ ] eleventh
+- [ ] empty
+- [ ] ending
+- [ ] enemy
+- [ ] energy
+- [ ] engine
+- [ ] engineer
+- [ ] entrance
+- [ ] envelope
+- [ ] equal
+- [ ] eraser
+- [ ] error
+- [ ] escape
+- [ ] especially
+- [ ] event
+- [ ] everyday
+- [ ] exact
+- [ ] exactly
+- [ ] examination
+- [ ] examine
+- [ ] example
+- [ ] excellent
+- [ ] except
+- [ ] exciting
+- [ ] exercise
+- [ ] exist
+- [ ] exit
+- [ ] expect
+- [ ] expensive
+- [ ] experience
+- [ ] explain
+- [ ] express
+- [ ] fail
+- [ ] fair
+- [ ] false
+- [ ] familiar
+- [ ] fan
+- [ ] fare
+- [ ] fashion
+- [ ] fault
+- [ ] favor
+- [ ] favorite
+- [ ] fax
+- [ ] fear
+- [ ] feed
+- [ ] fellow
+- [ ] female
+- [ ] fence
+- [ ] festival
+- [ ] fifteenth
+- [ ] fifth
+- [ ] fiftieth
+- [ ] figure
+- [ ] fill
+- [ ] final
+- [ ] finally
+- [ ] firm
+- [ ] fisherman
+- [ ] fishing
+- [ ] fit
+- [ ] fix
+- [ ] flag
+- [ ] flight
+- [ ] float
+- [ ] flood
+- [ ] flow
+- [ ] follow
+- [ ] following
+- [x] foolish
+- [x] force
+- [x] foreign
+- [x] foreigner
+- [x] forever
+- [x] forgive
+- [x] form
+- [x] formal
+- [ ] former
+- [ ] fortieth
+- [ ] fortunate
+- [ ] forward
+- [ ] fourteenth
+- [ ] fourth
+- [ ] freedom
+- [ ] freeze
+- [ ] friendship
+- [ ] fuel
+- [x] furniture
+- [x] further
+- [ ] gain
+- [ ] garage
+- [ ] gate
+- [ ] gather
+- [ ] general
+- [ ] generally
+- [ ] gentle
+- [ ] ghost
+- [ ] giant
+- [ ] gift
+- [ ] girlfriend
+- [ ] gorilla
+- [ ] grade
+- [x] grammar
+- [ ] grand
+- [ ] granddaughter
+- [ ] grandma
+- [ ] grandpa
+- [ ] grandson
+- [ ] grape
+- [ ] grapefruit
+- [ ] grateful
+- [ ] greatly
+- [ ] greatness
+- [ ] greeting
+- [ ] guard
+- [ ] guess
+- [ ] gym
+- [ ] habit
+- [ ] hairbrush
+- [ ] haircut
+- [ ] hall
+- [ ] ham
+- [ ] hamburger
+- [ ] hammer
+- [ ] handkerchief
+- [ ] handle
+- [ ] handsome
+- [ ] hang
+- [ ] happily
+- [ ] harbor
+- [ ] hardly
+- [ ] harm
+- [ ] hate
+- [ ] headache
+- [ ] health
+- [ ] heat
+- [x] heaven
+- [x] height
+- [x] helicopter
+- [x] hell
+- [x] helpful
+- [ ] hero
+- [ ] herself
+- [ ] hey
+- [ ] hide
+- [ ] highly
+- [ ] hiking
+- [ ] himself
+- [ ] hire
+- [ ] holy
+- [ ] homeroom
+- [ ] hook
+- [ ] host
+- [ ] however
+- [ ] human
+- [ ] hunt
+- [ ] illness
+- [ ] image
+- [ ] imagination
+- [ ] imagine
+- [ ] immediate
+- [ ] immediately
+- [ ] importance
+- [ ] impossible
+- [ ] impression
+- [ ] improve
+- [ ] inch
+- [ ] include
+- [ ] industry
+- [ ] inform
+- [ ] information
+- [ ] ink
+- [ ] insect
+- [ ] instead
+- [ ] intelligent
+- [ ] intend
+- [ ] international
+- [ ] introduce
+- [ ] invitation
+- [ ] iron
+- [ ] itself
+- [ ] jacket
+- [ ] jazz
+- [ ] jeans
+- [ ] jet
+- [ ] journey
+- [ ] judge
+- [ ] jungle
+- [ ] kilo
+- [ ] kilogram
+- [ ] kilometer
+- [ ] knock
+- [ ] knowledge
+- [ ] labor
+- [ ] lack
+- [ ] lamp
+- [ ] law
+- [ ] lawyer
+- [ ] lay
+- [ ] lazy
+- [ ] lead
+- [ ] leader
+- [ ] least
+- [ ] leather
+- [ ] lemon
+- [ ] lend
+- [ ] length
+- [ ] less
+- [ ] lie
+- [ ] lift
+- [ ] likely
+- [ ] limit
+- [ ] load
+- [ ] local
+- [ ] lock
+- [ ] locker
+- [ ] lonely
+- [ ] lot
+- [ ] loud
+- [ ] lovely
+- [ ] luck
+- [ ] mad
+- [ ] magic
+- [ ] main
+- [ ] maker
+- [ ] male
+- [ ] mama
+- [ ] manage
+- [ ] manager
+- [ ] mankind
+- [ ] manner
+- [ ] march
+- [ ] mark
+- [ ] married
+- [ ] mass
+- [ ] match
+- [ ] mate
+- [ ] material
+- [ ] mathematics
+- [ ] maybe
+- [ ] meaning
+- [ ] measure
+- [ ] medal
+- [ ] medical
+- [ ] medicine
+- [ ] melon
+- [ ] melt
+- [ ] mention
+- [ ] menu
+- [ ] merry
+- [ ] message
+- [ ] metal
+- [ ] method
+- [ ] might
+- [ ] mild
+- [ ] millimeter
+- [ ] million
+- [ ] mix
+- [ ] model
+- [ ] modern
+- [ ] moment
+- [ ] monster
+- [ ] monthly
+- [ ] mood
+- [ ] mosquito
+- [ ] motor
+- [ ] movement
+- [ ] mud
+- [ ] murder
+- [ ] musical
+- [ ] myself
+- [ ] mystery
+- [ ] nation
+- [ ] national
+- [ ] native
+- [ ] naturally
+- [ ] nature
+- [ ] navy
+- [ ] nearly
+- [ ] neat
+- [ ] necklace
+- [ ] needle
+- [ ] neither
+- [ ] nephew
+- [ ] nervous
+- [ ] nest
+- [ ] net
+- [ ] niece
+- [ ] nineteenth
+- [ ] ninetieth
+- [ ] ninth
+- [ ] noble
+- [ ] nod
+- [ ] noisy
+- [ ] nor
+- [ ] normal
+- [ ] notice
+- [ ] nowhere
+- [ ] nut
+- [ ] object
+- [ ] occasion
+- [ ] ocean
+- [ ] offer
+- [ ] officer
+- [ ] official
+- [ ] oneself
+- [ ] onion
+- [ ] opera
+- [ ] opinion
+- [ ] opposite
+- [ ] ought
+- [ ] ourselves
+- [ ] oven
+- [ ] owe
+- [ ] own
+- [ ] owner
+- [ ] pack
+- [ ] package
+- [ ] pain
+- [ ] painful
+- [ ] painter
+- [ ] painting
+- [ ] pajamas
+- [ ] palace
+- [ ] pan
+- [ ] panda
+- [ ] papa
+- [ ] parade
+- [ ] pardon
+- [ ] particular
+- [ ] partly
+- [ ] passage
+- [ ] passenger
+- [ ] passport
+- [ ] path
+- [ ] patient
+- [ ] pattern
+- [ ] pause
+- [ ] pea
+- [ ] peace
+- [ ] peaceful
+- [ ] peach
+- [ ] peak
+- [ ] peanut
+- [ ] pearl
+- [ ] pepper
+- [ ] perfect
+- [ ] perform
+- [ ] period
+- [ ] permit
+- [ ] personal
+- [ ] photographer
+- [ ] pie
+- [ ] pillow
+- [ ] pin
+- [ ] pineapple
+- [ ] pizza
+- [ ] plain
+- [ ] planet
+- [ ] plastic
+- [ ] plate
+- [ ] platform
+- [ ] player
+- [ ] pleasant
+- [ ] pleased
+- [ ] pleasure
+- [ ] plenty
+- [ ] poem
+- [ ] poet
+- [ ] poison
+- [ ] pole
+- [ ] policy
+- [ ] polish
+- [ ] polite
+- [ ] pond
+- [ ] port
+- [ ] position
+- [ ] positive
+- [ ] possibility
+- [ ] possible
+- [ ] pour
+- [ ] powder
+- [ ] powerful
+- [ ] practical
+- [ ] praise
+- [ ] pray
+- [ ] precious
+- [ ] prefer
+- [ ] prepare
+- [ ] president
+- [ ] press
+- [ ] prevent
+- [ ] pride
+- [ ] priest
+- [ ] prince
+- [ ] princess
+- [ ] print
+- [ ] prison
+- [ ] prisoner
+- [ ] private
+- [ ] prize
+- [ ] probably
+- [ ] problem
+- [ ] process
+- [ ] produce
+- [ ] product
+- [ ] professional
+- [ ] professor
+- [ ] profit
+- [ ] program
+- [ ] progress
+- [ ] proof
+- [ ] proper
+- [ ] propose
+- [ ] protect
+- [ ] protection
+- [ ] prove
+- [ ] provide
+- [ ] public
+- [ ] publish
+- [ ] punish
+- [ ] pupil
+- [ ] pure
+- [ ] purple
+- [ ] purpose
+- [ ] purse
+- [ ] puzzle
+- [ ] quietly
+- [ ] quite
+- [ ] quiz
+- [ ] racket
+- [ ] rail
+- [ ] railroad
+- [ ] railway
+- [ ] rainbow
+- [ ] raise
+- [ ] rank
+- [ ] rapid
+- [ ] rat
+- [ ] rate
+- [ ] rather
+- [ ] raw
+- [ ] reader
+- [ ] realize
+- [ ] reason
+- [ ] reasonable
+- [ ] recently
+- [ ] record
+- [ ] recover
+- [ ] regard
+- [ ] regular
+- [ ] remain
+- [ ] remove
+- [ ] repair
+- [ ] repeat
+- [ ] reply
+- [ ] report
+- [ ] reporter
+- [ ] request
+- [ ] reserve
+- [ ] respect
+- [ ] responsible
+- [ ] rest
+- [ ] result
+- [ ] ribbon
+- [ ] role
+- [ ] roll
+- [ ] root
+- [ ] rough
+- [ ] route
+- [ ] row
+- [ ] royal
+- [ ] ruler
+- [ ] rumor
+- [ ] runner
+- [ ] rush
+- [ ] safety
+- [ ] sail
+- [ ] sailing
+- [ ] sailor
+- [ ] salary
+- [ ] sauce
+- [ ] saying
+- [ ] schoolboy
+- [ ] schoolgirl
+- [ ] scientific
+- [ ] scientist
+- [ ] score
+- [ ] scream
+- [ ] secretary
+- [ ] seller
+- [ ] sense
+- [ ] sentence
+- [ ] separate
+- [ ] serious
+- [ ] servant
+- [ ] serve
+- [ ] service
+- [ ] seventeenth
+- [ ] seventh
+- [ ] seventieth
+- [ ] sex
+- [ ] shade
+- [ ] shadow
+- [ ] shampoo
+- [ ] share
+- [ ] sheet
+- [ ] shock
+- [ ] shoot
+- [ ] shore
+- [ ] shot
+- [ ] shout
+- [ ] shrimp
+- [ ] sight
+- [ ] signal
+- [ ] silence
+- [ ] silk
+- [ ] silly
+- [ ] similar
+- [ ] single
+- [ ] sink
+- [ ] sir
+- [ ] sixteenth
+- [ ] sixth
+- [ ] sixtieth
+- [ ] skate
+- [ ] skating
+- [ ] skirt
+- [ ] slide
+- [ ] slip
+- [ ] smooth
+- [ ] social
+- [ ] society
+- [ ] sock
+- [ ] sofa
+- [ ] soldier
+- [ ] solid
+- [ ] solve
+- [ ] somewhere
+- [ ] sort
+- [ ] spaghetti
+- [ ] spare
+- [ ] speaking
+- [ ] speech
+- [ ] spell
+- [ ] spelling
+- [ ] spider
+- [ ] spirit
+- [ ] spoken
+- [ ] spot
+- [ ] spread
+- [ ] stage
+- [ ] stair
+- [ ] standard
+- [ ] state
+- [ ] steak
+- [ ] steal
+- [ ] steam
+- [ ] steel
+- [ ] stereo
+- [ ] stick
+- [ ] stomach
+- [ ] storm
+- [ ] stranger
+- [ ] straw
+- [ ] strawberry
+- [ ] stream
+- [ ] strength
+- [ ] stretch
+- [ ] strike
+- [ ] struggle
+- [ ] stuff
+- [ ] stupid
+- [ ] style
+- [ ] subject
+- [ ] succeed
+- [ ] success
+- [ ] successful
+- [ ] sudden
+- [ ] suffer
+- [ ] suggest
+- [ ] suitcase
+- [ ] sundae
+- [ ] sunlight
+- [ ] sunset
+- [ ] sunshine
+- [ ] super
+- [ ] supper
+- [ ] support
+- [ ] surely
+- [ ] surprised
+- [ ] swallow
+- [ ] swan
+- [ ] sweat
+- [ ] sweater
+- [ ] swing
+- [ ] symbol
+- [ ] system
+- [ ] tail
+- [ ] tax
+- [ ] tear
+- [ ] teen
+- [ ] teenage
+- [ ] teenager
+- [ ] temple
+- [ ] tenth
+- [ ] term
+- [ ] terrible
+- [ ] text
+- [ ] theater
+- [ ] themselves
+- [ ] thief
+- [ ] thinking
+- [ ] thirsty
+- [ ] thirteenth
+- [ ] thirtieth
+- [ ] thought
+- [ ] throat
+- [ ] thumb
+- [ ] tight
+- [ ] tiny
+- [ ] tip
+- [ ] tire
+- [ ] title
+- [ ] tobacco
+- [ ] ton
+- [ ] tool
+- [ ] toothbrush
+- [ ] toothpaste
+- [ ] topic
+- [ ] total
+- [ ] tour
+- [ ] tourist
+- [ ] track
+- [ ] trade
+- [ ] traffic
+- [ ] training
+- [ ] trick
+- [ ] truck
+- [ ] trumpet
+- [ ] trust
+- [ ] truth
+- [ ] tube
+- [ ] tulip
+- [ ] tummy
+- [ ] turkey
+- [ ] twelfth
+- [ ] twentieth
+- [ ] twice
+- [ ] twin
+- [ ] unable
+- [ ] understanding
+- [ ] underwear
+- [ ] unhappy
+- [ ] uniform
+- [ ] university
+- [ ] unless
+- [ ] upper
+- [ ] upstairs
+- [ ] used
+- [ ] valley
+- [ ] valuable
+- [ ] value
+- [ ] view
+- [ ] violent
+- [ ] violet
+- [ ] vocabulary
+- [ ] volleyball
+- [ ] vote
+- [ ] waiter
+- [ ] waitress
+- [ ] walker
+- [ ] warn
+- [ ] warning
+- [ ] waste
+- [ ] wealth
+- [ ] weather
+- [ ] wedding
+- [ ] weekly
+- [ ] weigh
+- [ ] weight
+- [ ] western
+- [ ] wheel
+- [ ] whether
+- [ ] whiskey
+- [ ] whole
+- [ ] willing
+- [ ] win
+- [ ] wing
+- [ ] wipe
+- [ ] wire
+- [ ] wish
+- [ ] within
+- [ ] wolf
+- [ ] wonder
+- [ ] wooden
+- [ ] wool
+- [ ] worker
+- [ ] worried
+- [ ] worse
+- [ ] worth
+- [ ] writer
+- [ ] writing
+- [ ] yeah
+- [ ] yet
+- [ ] yourself
+- [ ] yourselves
+- [ ] youth
+- [ ] zero
